@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+You can search for any city and you will get the wheather data of that city
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screens : 
+![Screenshot_1673872834](https://user-images.githubusercontent.com/93593029/212684396-5bfadf39-689f-465b-9982-61056b5ccc3b.png)
+![Screenshot_1673872870](https://user-images.githubusercontent.com/93593029/212684480-dd6d6b31-eb3f-4188-a798-7141d413de43.png)
